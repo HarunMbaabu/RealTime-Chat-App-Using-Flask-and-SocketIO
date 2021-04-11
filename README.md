@@ -38,7 +38,8 @@ Link: http://eventlet.net/
 
 
 
-![](https://github.com/mohitwildbeast/Chat-App-Flask-SocketIO/raw/main/screenshots/Realtime%20Chat%20App.png)
+![](https://github.com/LuxTechAcademy/RealTime-Chat-App-Using-Flask-and-SocketIO/blob/main/screenshots/Realtime%20Chat%20App.png)
+
 ### Installation
 
  1. Clone the repository.
@@ -49,8 +50,13 @@ Link: http://eventlet.net/
 ### Run
 Execute the application by 
 
+    
+    ```python 
     python app.py
-### Screenshots
-| Login Screen![enter image description here](https://github.com/mohitwildbeast/Chat-App-Flask-SocketIO/raw/main/screenshots/Login%20Screen.png) | Chat Window![enter image description here](https://github.com/mohitwildbeast/Chat-App-Flask-SocketIO/raw/main/screenshots/Chat%20Window.png) 
-|--|--|
+    ```
+
+### Chats Page 
+ 
+ [enter image description here](https://github.com/LuxTechAcademy/RealTime-Chat-App-Using-Flask-and-SocketIO/blob/main/screenshots/Chat%20Window.png.png) 
+
 
