@@ -53,7 +53,7 @@ Execute the application by
 
     
 ```python 
-    python app.py
+python app.py
 ```
 
 ### Chats Page 
