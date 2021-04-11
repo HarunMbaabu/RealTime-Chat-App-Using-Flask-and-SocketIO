@@ -3,10 +3,15 @@
 
 **Dependancies:**
 
-- flask 
+- Flask 
 - Flask-SocketIO 
 - Flask-Session 
-- eventlet 
+- Eventlet 
+
+To install run the followinf command:
+```python
+pip install flask Flask-SocketIO Flask-Session eventlet 
+```
 
 **Link to read more about the packages & Libraries used:**
 
