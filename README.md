@@ -40,7 +40,7 @@ Link: http://eventlet.net/
 
 ![](https://github.com/LuxTechAcademy/RealTime-Chat-App-Using-Flask-and-SocketIO/blob/main/screenshots/Realtime%20Chat%20App.png)
 
-### Installation
+### Installation  if you downloaded or cloned the project
 
  1. Clone the repository.
  2. Install all the required libraries by running the following command 
