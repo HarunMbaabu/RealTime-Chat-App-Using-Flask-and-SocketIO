@@ -12,8 +12,17 @@
 
 **1). Flask.**
 
+Link: https://flask.palletsprojects.com/ 
+
+
 **2). Flask Socket IO** 
+
+Link: https://flask-socketio.readthedocs.io/
 
 **3). Flask Sessions** 
 
+Link: https://flask-session.readthedocs.io/
+
 **4). Eventlet**
+
+Link: http://eventlet.net/
