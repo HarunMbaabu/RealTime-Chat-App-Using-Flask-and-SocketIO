@@ -57,6 +57,6 @@ Execute the application by
 
 ### Chats Page 
  
- [enter image description here](https://github.com/LuxTechAcademy/RealTime-Chat-App-Using-Flask-and-SocketIO/blob/main/screenshots/Chat%20Window.png.png) 
+ ![enter image description here](https://github.com/LuxTechAcademy/RealTime-Chat-App-Using-Flask-and-SocketIO/blob/main/screenshots/Chat%20Window.png.png) 
 
 
